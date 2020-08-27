@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "_//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtmll/DTD/xhtml-Transitional.dtd">
-  <<!DOCTYPE html>
+  <!DOCTYPE html>
   <html lang="en" dir="ltr">
     <head>
       <meta charset="utf-8">
@@ -30,6 +30,27 @@
 
       <h1>This is and example of an embedded image</h1>
       <img src="IMG_4079.jpg" alt="Remain Brave Logo" height="120" width="588" />
+
+      <h1>This is an example of a form with comments and radio button</h1>
+      <form name="order" method="post" id="order" action="cgi-bin/order.php">
+        form elements go here...
+
+        Sample Check Box:
+        Choose your favorite color:
+        <br /><input type="checkbox"name="Blue" id="Blue" value="yes" /> Blue
+        <br /><input type="checkbox"name="Red" id="Red" value="yes" /> Red
+        <br /><input type="checkbox"name="yellow" id="yellow" value="yes" /> Yellow
+
+        Sample Radio Button:
+        Indicate you gender:
+        <br /><input type-"radio" name="Gender" id="gm" value="Male" /> Male
+        <br /><input type="radio" name="Gender" id="gf" value="Female" /> Female
+
+        Ssmple Scrolling Comments checkbox
+        Comments:
+        <br /><textarea name="ordercomments" id="ordercomments" cols="40" rows="2">Enter your comments here</textarea>
+        <input type="Submit" />
+      </form>
     </body>
     <p><small>Copyright &copy; 2020 Remain Brave. All Rights Reserved.</small></p>
   </html>
