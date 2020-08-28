@@ -20,7 +20,7 @@ a.nav:hover { color: #ffffff }
 
 #content { position:absolute; left:200px; top:100px; font-family: Arial, sans-serif; width:300px; } 
 
-#yls { float:right; margin:5px; border:solid; }
+.rightfloat { float:right; margin:5px; clear:right; border:solid; }
 
 
 
