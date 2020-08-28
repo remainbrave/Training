@@ -18,6 +18,7 @@ a.nav:link { color: #000066 }
 a.nav:visited { color: #000000 }
 a.nav:hover { color: #ffffff }
 
+#content { position:absolute; left:200px; top:100px; font-family: Arial, sans-serif; width:300px; } 
 
 
 
