@@ -1,6 +1,6 @@
 body { margin: 50px; background-color:#ffffff; color: #000000; font-family: Castellar, sans-serif; font-size: 24px;}
 
-p { font-family: "Castellar", sans-serif;}
+p { "font-family: Castellar, sans-serif;"}
 
 ul { list-style-image: url(IMG_4079.jpg); }
 
