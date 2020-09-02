@@ -13,7 +13,7 @@ a { font-family: Castellar, sans-serif; font-size: 8px;}
 
 #content { position:absolute; left:200px; top:100px; font-family: Castellar, sans-serif; font-size: 50px; width:300px; }
 
-.polaroid {  width: 600px; padding: 10px;
+.polaroid {  width: 300px; padding: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center; }
 
@@ -24,8 +24,8 @@ a { font-family: Castellar, sans-serif; font-size: 8px;}
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
  background-color: transparent;
- width: 300px;
- height: 200px;
+ width: 250px;
+ height: 275px;
  border: 1px solid #f1f1f1;
  perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
