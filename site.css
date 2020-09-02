@@ -36,6 +36,7 @@ a { font-family: Castellar, sans-serif; font-size: 8px;}
  width: 100%;
  height: 100%;
  text-align: center;
+ image-orientation: top-center;
  transition: transform 0.8s;
  transform-style: preserve-3d;
 }
