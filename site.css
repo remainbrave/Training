@@ -13,7 +13,7 @@ a { font-family: Castellar, sans-serif; font-size: 8px;}
 
 #content { position:absolute; left:200px; top:100px; font-family: Castellar, sans-serif; font-size: 50px; width:300px; }
 
-.polaroid {  width: 300px; height:200; padding: 10px;
+.polaroid {  width: 300px; height:200; padding: 0px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center; }
 
