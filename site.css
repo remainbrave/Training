@@ -1,7 +1,11 @@
 body { margin: 50px; background-color:lightblue;}
 
-h1,h3 { color: red; font-family: Castellar, sans-serif; text-align:inherit;}
+h1 { color: red; font-family: Castellar, sans-serif; text-align:inherit;}
 h2 { color: green; font-family: Castellar, sans-serif; text-align:inherit;}
+h3 { color: blue; font-family: Castellar, sans-serif; text-align:inherit;}
+h4 { color: yellow; font-family: Castellar, sans-serif; text-align:inherit;}
+h5 { color: orange; font-family: Castellar, sans-serif; text-align:inherit;}
+h6 { color: white; font-family: Castellar, sans-serif; text-align:inherit;}
 
 p { font-family: Castellar, sans-serif; font-size: 20px;}
 
@@ -9,7 +13,7 @@ a { font-family: Castellar, sans-serif; font-size: 8px;}
 
 #content { position:absolute; left:200px; top:100px; font-family: Castellar, sans-serif; font-size: 50px; width:300px; }
 
-.polaroid {  width: 250px; padding: 10px;
+.polaroid {  width: 350px; padding: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center; }
 
